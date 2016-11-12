@@ -9,8 +9,9 @@
     <script>
         //判断手机端还是pc端
         var ua = navigator.userAgent;
-		//ua.indexOf("Windows NT")!=-1||ua.indexOf("Linux")!=-1||ua.indexOf("Mac OS X 10")!=-1
-        if(false){
+		console.log(ua);
+		console.log(ua.indexOf("Mac OS X 10"));
+        if(ua.indexOf("Windows NT")!=-1||ua.indexOf("Linux")!=-1||ua.indexOf("Mac OS X 10")!=-1){
             //这是pc端
             $(function () {
 				links=$("head link");
