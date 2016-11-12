@@ -1,0 +1,188 @@
+.kuang{
+    width:790px;//为了chiron下去
+}
+.header{
+    float: left;
+    overflow: hidden;
+    width:18%;
+}
+.heading{
+    width: 90px;
+    height: 90px;
+    background: url("../img/food-sense.png") no-repeat 0 0;
+    border:1px solid red;
+    margin-left:20px;
+}
+.nav{
+    text-align: left;
+    margin-top:20px;
+    width: 100%
+}
+.nav ul{
+    list-style: none;
+    padding:0;
+}
+.nav ul li{
+    position:relative;
+    height:32px;
+    line-height:32px;
+    margin-bottom: 18px;
+
+}
+.nav ul li img{
+    display:block;
+    margin-top:auto;
+    margin-bottom:auto;
+    top:0;
+    bottom:0;
+    position: absolute;
+    width:33%;//只有重新刷新页面才会有用
+}
+.nav ul li a{
+    font-size:1.1em;
+    display:block;
+    position:absolute;
+    text-align: left;
+    height:32px;
+    left:40%;
+    width:70%;
+
+}
+/******************/
+.content{
+    width:80%;
+    padding-bottom:30px;
+}
+#picture img{
+    max-width:100%;
+}
+#picture>div{
+    overflow: hidden;
+    position:absolute;
+    top:0;
+}
+.onpicture_1{
+    left:4%;/*left:100-62-34=4*/
+    bottom:8%;
+}
+.onpicture_2{
+    bottom:8%;
+    right:-32%;
+}
+.onpicture_3{
+    top:8%;
+    right:-32%;
+}
+.onpicture_4{
+    top:8%;
+    left:-32%;
+}
+.onpicture_1,.onpicture_2,.onpicture_3,.onpicture_4{
+    position:absolute;
+    width:32%;
+    height:28%;
+    background-color: rgba(20, 20, 20, 0.45);
+    color:#fff;
+    text-align:center;
+    border:none;
+}
+#picture span{
+    position:absolute;
+    left:0;
+    right:0;
+    margin:3px auto;
+    border:1px solid #fff;
+    display:block;
+    color:#fff;
+    transition:all 240ms linear;
+    border-radius:1px;
+    cursor:pointer;
+    font-size:12px;
+    line-height:21px;
+    width:23%;
+    height:20%;
+}
+#picture span:hover{
+    background-color:#fff;
+    color:rgba(20, 20, 20, 0.8);
+}
+#picture p{
+    text-align:center;
+    font-size:15px;
+    margin:10px 15px 3px 15px;
+}
+#picture h3{
+    display: none;
+}
+
+
+/****************/
+.nav_content ul li{
+    padding:0 2%;
+}
+.nav_content{
+    height:36px;
+}
+.nav_content p{
+    display: none;
+}
+.nav_content h4{
+    font-size:14px;
+    line-height: 36px;
+    margin:0;
+    padding:0;
+    text-align: center;
+}
+/****************/
+
+.neirong{
+    width:22.69%;
+    margin-right:3%;
+}
+.middle3{
+    margin-right:0;
+}
+.neirong>a>div{
+    margin:5px;
+
+}
+
+/***************************/
+.aside{
+    position: absolute;
+    width:100px;
+    margin-top:568px;
+
+}
+.aside p{
+    font-size: 8px;
+    font-family:"微软雅黑 Light","微软雅黑";
+    line-height:25px;
+    margin-bottom:30px;
+}
+.aside h4{
+    margin-bottom:0;
+    border-bottom:1px dashed #ddd;
+    padding-bottom:3px;
+    font-size:15px;
+    color:#6a6a6a;
+}
+.aside a{
+    display: block;
+    width:121px;
+    font-size: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 3px 2px 3px 0;
+
+}
+.aside a:hover{
+    background-color:#EFF8F7;
+}
+.aside a span{
+    float:left;
+    width:19px;
+    height:19px;
+    margin:1px 5px 0 3px;
+    background: url("../img/tubiao.png") -83px 0 no-repeat;
+}
