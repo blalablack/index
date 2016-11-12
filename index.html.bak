@@ -9,15 +9,15 @@
     <script>
         //判断手机端还是pc端
         var ua = navigator.userAgent;
-		//ua.indexOf("Windows NT")!=-1||ua.indexOf("Linux")!=-1||ua.indexOf("Mac OS X 10")!=-1
-		console.log((ua.indexOf("Windows NT")))
-        if(false){
+        if(ua.indexOf("Windows NT")!=-1||ua.indexOf("Linux")!=-1||ua.indexOf("Mac OS X 10")!=-1){
             //这是pc端
             $(function () {
 				links=$("head link");
-				$(links[0]).after("<link rel='stylesheet' type='text/css' media='screen and (min-width:992px )and (max-width:1200px)' href='css/biglittle.css'/>")
+				$(links[0]).after("<link rel='stylesheet' type='text/css' media='screen and (min-width:1200px )' href='css/big.css'/>");
 				links=$("head link");
-				$(links[1]).after("<link rel='stylesheet' type='text/css' media='screen and (max-width:992px)' href='css/biglittle2.css'/>");
+				$(links[1]).after("<link rel='stylesheet' type='text/css' media='screen and (min-width:992px )and (max-width:1200px)' href='css/biglittle.css'/>");
+				links=$("head link");
+				$(links[2]).after("<link rel='stylesheet' type='text/css' media='screen and (max-width:992px)' href='css/biglittle2.css'/>");
                 navcar();
                 picturechange.t();
                 picturemouse();

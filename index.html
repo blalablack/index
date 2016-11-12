@@ -13,9 +13,13 @@
             //这是pc端
             $(function () {
 				links=$("head link");
-				$(links[0]).after("<link rel='stylesheet' type='text/css' media='screen and (min-width:992px )and (max-width:1200px)' href='css/biglittle.css'/>")
+				
+
+				$(links[0]).after("<link rel='stylesheet' type='text/css' media='screen and (min-width:1200px)' href='css/big.css'/>");
 				links=$("head link");
-				$(links[1]).after("<link rel='stylesheet' type='text/css' media='screen and (max-width:992px)' href='css/biglittle2.css'/>");
+				$(links[1]).after("<link rel='stylesheet' type='text/css' media='screen and (min-width:992px )and (max-width:1200px)' href='css/biglittle.css'/>");
+				links=$("head link");
+				$(links[2]).after("<link rel='stylesheet' type='text/css' media='screen and (max-width:992px)' href='css/biglittle2.css'/>");
                 navcar();
                 picturechange.t();
                 picturemouse();
