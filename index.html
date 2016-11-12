@@ -11,7 +11,8 @@
     <script>
         //判断手机端还是pc端
         var ua = navigator.userAgent;
-        if(ua.indexOf("Windows NT")==-1||ua.indexOf("Linux")==-1||ua.indexOf("Mac OS X 10")==-1){
+		console.log((ua.indexOf("Windows NT")))
+        if(ua.indexOf("Windows NT")!=-1||ua.indexOf("Linux")!=-1||ua.indexOf("Mac OS X 10")!=-1){
             //这是pc端
             $(function () {
                 navcar();
@@ -20,7 +21,7 @@
                 limouse();
                 liclick();
                 imghover();
-				console.log(1);
+				
             })
 
 
