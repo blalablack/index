@@ -1,6 +1,4 @@
-body{
-    font-size:12px;
-}
+
 .nav ul li a{
     font-size: 1m;
 }
@@ -173,4 +171,10 @@ body{
 .footer{
     width: 90%;
     margin:0 auto;
+}
+.footer p {
+    font-size: .8em;
+}
+.footer ul li{
+    margin-left:3px;
 }
