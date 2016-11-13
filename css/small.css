@@ -1,6 +1,32 @@
 .kuang{
-    width:90%;
+    width:100%;
 }
+.nav ul li a{
+    font-size: 1.5em;
+}
+.nav_content ul li h4{
+    font-size:1.4em;
+}
+
+#bottom .neirong p{
+    font-size:1.2em;
+}
+#bottom .neirong h4{
+    font-size:1.4em;
+}
+#bottom .neirong span{
+    font-size:1em;
+}
+#picture div div h3{
+    font-size:1.6em;
+}
+#picture div div p{
+    font-size:1.4em;
+}
+#middle h3{
+    font-size:1.5em;
+}
+
 .header{
     overflow: hidden;
     width:100%;
@@ -27,7 +53,6 @@
 }
 .nav ul li{
     float: left;
-    font-size:12px;
     margin-left:13px;//一会改成百分比
 
 }
@@ -58,11 +83,10 @@
 }
 #picture div div{
     position: absolute;
-    bottom:-20px;
+    bottom:-10px;
     left:0;
 }
 #picture div h3{
-    font-size:12px;
     margin:0 0 0 0;
     text-align:left;
     background:rgba(255,255,255,.5);
@@ -72,7 +96,6 @@
 }
 #picture div p{
     background:black;
-    font-size:12px;
     margin:0;
     text-align:left;
     padding-left:2%;
@@ -114,6 +137,5 @@
     display: none;
 }
 #middle{
-    font-size:14px;
     margin-top:35px;
 }
