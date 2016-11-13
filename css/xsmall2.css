@@ -140,7 +140,7 @@
     box-shadow:3px 3px 6px #F0F0F0;
 }
 #bottom .neirong h4{
-    margin:0;
+    margin:-1px 0;
     background:black;
     color:#fff;
     text-align:right;
