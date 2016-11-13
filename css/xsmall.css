@@ -1,6 +1,31 @@
 body{
     font-size:12px;
 }
+.nav ul li a{
+    font-size: 1m;
+}
+.nav_content ul li h4{
+    font-size:1em;
+}
+
+#bottom .neirong p{
+    font-size:1em;
+}
+#bottom .neirong h4{
+    font-size:1em;
+}
+#bottom .neirong span{
+    font-size:1em;
+}
+#picture div div h3{
+    font-size:.8em;
+}
+#picture div div p{
+    font-size:.8em;
+}
+#middle h3{
+    font-size:.8em;
+}
 .kuang{
     width:100%;
 }
@@ -38,7 +63,7 @@ body{
 }
 .nav ul li{
     float: left;
-    font-size:12px;
+
     width:20%;
 }
 .nav ul li img{
@@ -58,7 +83,7 @@ body{
 }
 
 #picture span{
-    font-size:12px;
+
     margin-top:3px;
     line-height:20px;
     width:40px;
@@ -81,7 +106,7 @@ body{
     left:0;
 }
 #picture div h3{
-    font-size:12px;
+
     margin:0 0 0 0;
     text-align:left;
     background:rgba(255,255,255,.5);
@@ -91,7 +116,7 @@ body{
 }
 #picture div p{
     background:black;
-    font-size:12px;
+
     margin:0;
     text-align:left;
     padding-left:2%;
@@ -138,7 +163,7 @@ body{
     display: none;
 }
 #middle {
-    font-size:14px;
+
     margin:35px auto 0;
     width:80%;
 }

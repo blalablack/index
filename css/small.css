@@ -2,29 +2,29 @@
     width:100%;
 }
 .nav ul li a{
-    font-size: 1.5em;
+    font-size: 1m;
 }
 .nav_content ul li h4{
-    font-size:1.4em;
+    font-size:1em;
 }
 
 #bottom .neirong p{
-    font-size:1.2em;
+    font-size:1em;
 }
 #bottom .neirong h4{
-    font-size:1.4em;
+    font-size:1em;
 }
 #bottom .neirong span{
     font-size:1em;
 }
 #picture div div h3{
-    font-size:1.6em;
+    font-size:.8em;
 }
 #picture div div p{
-    font-size:1.4em;
+    font-size:.8em;
 }
 #middle h3{
-    font-size:1.5em;
+    font-size:.8em;
 }
 
 .header{
