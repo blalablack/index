@@ -1,5 +1,5 @@
 .kuang{
-    width:100%;
+    width:1000px;
 }
 /****字体************/
 .nav ul li a{
@@ -54,7 +54,7 @@
 }
 .nav ul li{
     float: left;
-   margin-left:25px;
+    margin-left:25px;
 
 }
 .nav ul li img{
@@ -139,7 +139,7 @@
 
 }
 /*.middle3 span{*/
-    /*display:none;*/
+/*display:none;*/
 /*}*/
 .neirong>a>div{
     margin:3px;

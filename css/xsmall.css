@@ -24,6 +24,13 @@
 #middle h3{
     font-size:1.5em;
 }
+.footer p{
+    font-size: .8em;
+}
+.footer p a{
+    font-size: 1em;
+}
+
 .kuang{
     width:100%;
 }
@@ -173,15 +180,4 @@
     width: 100%;
     margin:0 auto;
 }
-.footer ul{
 
-}
-.footer p{
-    font-size: .8em;
-}
-.footer p a{
-    font-size: 1em;
-}
-.footer ul li{
-    margin-left:3px;
-}

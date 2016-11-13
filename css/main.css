@@ -98,7 +98,7 @@ body{
 #middle{
     border-bottom:1px dashed #ddd;
     margin-top:30px;
-    margin-bottom:10px;
+    margin-bottom:3px;
 }
 #middle h3{
     text-transform:uppercase;
@@ -193,10 +193,6 @@ body{
 .footer ul li a:hover{
     opacity: .9;
 }
-/**************************/
-
-
-
 /************************/
 a{
     transition:all 200ms linear;
