@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9803fe0-09bd-4d07-a056-79fdfe030b63" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/small.css" afterPath="$PROJECT_DIR$/css/small.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/xsmall.css" afterPath="$PROJECT_DIR$/css/xsmall.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/xsmall2.css" afterPath="$PROJECT_DIR$/css/xsmall2.css" />
     </list>
     <ignored path="index.iws" />
@@ -110,8 +108,8 @@
       <file leaf-file-name="xsmall2.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/xsmall2.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="372">
+              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -175,15 +173,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1479006223671</updated>
-      <workItem from="1479006227447" duration="4901000" />
+      <workItem from="1479006227447" duration="4956000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4901000" />
+    <option name="totallyTimeSpent" value="4956000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="0" width="1378" height="744" extended-state="1" />
+    <frame x="-3" y="0" width="1378" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -286,8 +284,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/xsmall2.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="372">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
           <folding />
         </state>
       </provider>
