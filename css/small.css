@@ -2,7 +2,7 @@
     width:100%;
 }
 .nav ul li a{
-    font-size: 1m;
+    font-size: 1em;
 }
 .nav_content ul li h4{
     font-size:1em;
@@ -138,4 +138,8 @@
 }
 #middle{
     margin-top:35px;
+}
+.footer{
+    width: 100%;
+    margin:0 auto;
 }

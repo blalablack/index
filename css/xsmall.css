@@ -1,6 +1,6 @@
 
 .nav ul li a{
-    font-size: 1m;
+    font-size: 1em;
 }
 .nav_content ul li h4{
     font-size:1em;
@@ -170,10 +170,16 @@
     text-align: center;
 }
 .footer{
-    width: 90%;
+    width: 100%;
     margin:0 auto;
 }
-.footer p {
+.footer ul{
+
+}
+.footer p{
+    font-size: .8em;
+}
+.footer p a{
     font-size: .8em;
 }
 .footer ul li{
