@@ -53,10 +53,7 @@
 .content{
     width:80%;
 }
-.content_header h1{
-    padding-bottom:6px;
-    text-transform: uppercase;
-}
+
 .content_content .content_img img{
     max-width: 100%;
 
@@ -79,6 +76,9 @@
 }
 /**************************/
 /******************/
+#content .no{
+    display: none;
+}
 #content .center .center2{
     width:60%;
     float:right;
@@ -111,7 +111,6 @@
 #content .content_bottom div p{
     margin-top:2px;
     margin-bottom:3px;
-
 }
 /*************************/
 .aside{

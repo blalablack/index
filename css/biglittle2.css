@@ -1,5 +1,27 @@
 .kuang{
-    width:790px;//为了chiron下去
+    width:850px;//为了chiron下去
+}
+.nav ul li a{
+    font-size: 1.4em;
+}
+.nav_content ul li h4{
+    font-size:1.3em;
+}
+
+#bottom .neirong p{
+    font-size:1em;
+}
+#bottom .neirong span{
+    font-size:1.3em;
+}
+#picture div div h3{
+    font-size:1.6em;
+}
+#picture div div p{
+    font-size:1.4em;
+}
+#middle h3{
+    font-size: 1.4em;
 }
 .header{
     float: left;
@@ -39,7 +61,6 @@
     width:33%;//只有重新刷新页面才会有用
 }
 .nav ul li a{
-    font-size:1.1em;
     display:block;
     position:absolute;
     text-align: left;
@@ -80,27 +101,17 @@
 .onpicture_1,.onpicture_2,.onpicture_3,.onpicture_4{
     position:absolute;
     width:32%;
-    height:28%;
+    height:26%;
     background-color: rgba(20, 20, 20, 0.45);
     color:#fff;
     text-align:center;
     border:none;
 }
 #picture span{
-    position:absolute;
-    left:0;
-    right:0;
-    margin:3px auto;
-    border:1px solid #fff;
-    display:block;
-    color:#fff;
-    transition:all 240ms linear;
-    border-radius:1px;
-    cursor:pointer;
-    font-size:12px;
+    margin-top:3px;
     line-height:21px;
     width:23%;
-    height:20%;
+    height:22%;
 }
 #picture span:hover{
     background-color:#fff;
@@ -108,7 +119,6 @@
 }
 #picture p{
     text-align:center;
-    font-size:15px;
     margin:10px 15px 3px 15px;
 }
 #picture h3{
@@ -127,7 +137,6 @@
     display: none;
 }
 .nav_content h4{
-    font-size:14px;
     line-height: 36px;
     margin:0;
     padding:0;
@@ -143,7 +152,7 @@
     margin-right:0;
 }
 .neirong>a>div{
-    margin:5px;
+    margin:3px;
 
 }
 
@@ -151,11 +160,10 @@
 .aside{
     position: absolute;
     width:100px;
-    margin-top:568px;
+    margin-top:392px;
 
 }
 .aside p{
-    font-size: 8px;
     font-family:"微软雅黑 Light","微软雅黑";
     line-height:25px;
     margin-bottom:30px;
@@ -164,16 +172,14 @@
     margin-bottom:0;
     border-bottom:1px dashed #ddd;
     padding-bottom:3px;
-    font-size:15px;
     color:#6a6a6a;
 }
 .aside a{
     display: block;
-    width:121px;
-    font-size: 8px;
+    width:118px;
     border: 1px solid #ddd;
     border-radius: 4px;
-    padding: 3px 2px 3px 0;
+    padding: 3px 1px 3px 0;
 
 }
 .aside a:hover{

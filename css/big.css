@@ -1,6 +1,29 @@
 .kuang{
     width:90%;
 }
+.nav ul li a{
+    font-size: 1.6em;
+}
+.nav_content ul li h4{
+    font-size:1.5em;
+}
+
+#bottom .neirong p{
+    font-size:1.2em;
+}
+#bottom .neirong h4{
+    font-size:1.4em;
+}
+#bottom .neirong span{
+    font-size:1em;
+}
+#picture div div h3{
+    font-size:1.6em;
+}
+#picture div div p{
+    font-size:1.4em;
+}
+
 .header{
     float: left;
     overflow: hidden;
@@ -39,7 +62,6 @@
     width:33%;
 }
 .nav ul li a{
-    font-size:1.1em;
     display:block;
     position:absolute;
     text-align: left;
@@ -83,27 +105,11 @@
 .onpicture_1,.onpicture_2,.onpicture_3,.onpicture_4{
     position:absolute;
     width:32%;
-    height:28%;
+    height:24%;
     background-color: rgba(20, 20, 20, 0.45);
     color:#fff;
     text-align:center;
     border:none;
-}
-#picture span{
-    position:absolute;
-    left:0;
-    right:0;
-    margin:0 auto;
-    border:1px solid #fff;
-    display:block;
-    color:#fff;
-    transition:all 240ms linear;
-    border-radius:1px;
-    cursor:pointer;
-    font-size:13px;
-    line-height: 27px;
-    width:20%;
-    height:20%;
 }
 #picture span:hover{
     background-color:#fff;
@@ -113,7 +119,8 @@
     margin-bottom:0;
 }
 #picture p{
-    margin-top: 0;
+    margin-top: 5px;
+    margin-bottom:6px;
 }
 
 /****************/
@@ -121,11 +128,11 @@
     padding:0 2%;
 }
 .nav_content{
-    height:95px;
+    height:80px;
+    margin-top:-10px;
 }
 .nav_content p{
     margin-top:0;
-    font-size:0.6em;/*下一个阶段display:none*/
 }
 /*TODO：1:、内容图片交互
         2、middle内容
@@ -147,11 +154,10 @@
 .aside{
     position: absolute;
     width:124px;
-    margin-top:568px;
+    margin-top:49%;
 
 }
 .aside p{
-    font-size: 8px;
     font-family:"微软雅黑 Light","微软雅黑";
     line-height:25px;
     margin-bottom:30px;
@@ -160,18 +166,9 @@
     margin-bottom:0;
     border-bottom:1px dashed #ddd;
     padding-bottom:3px;
-    font-size:15px;
     color:#6a6a6a;
 }
-.aside a{
-    display: block;
-    width:121px;
-    font-size: 8px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 3px 2px 3px 0;
 
-}
 .aside a:hover{
     background-color:#EFF8F7;
 }
