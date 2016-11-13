@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9803fe0-09bd-4d07-a056-79fdfe030b63" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/small.css" afterPath="$PROJECT_DIR$/css/small.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/xsmall.css" afterPath="$PROJECT_DIR$/css/xsmall.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/xsmall2.css" afterPath="$PROJECT_DIR$/css/xsmall2.css" />
     </list>
     <ignored path="index.iws" />
@@ -85,11 +87,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="small.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="small.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/small.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="184">
+              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -98,18 +100,18 @@
       <file leaf-file-name="xsmall.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/xsmall.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            <state relative-caret-position="23">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="xsmall2.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="xsmall2.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/xsmall2.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+            <state relative-caret-position="487">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -129,9 +131,9 @@
         <option value="$PROJECT_DIR$/css/big.css" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/css/middle.css" />
-        <option value="$PROJECT_DIR$/css/small.css" />
         <option value="$PROJECT_DIR$/css/xsmall.css" />
         <option value="$PROJECT_DIR$/css/xsmall2.css" />
+        <option value="$PROJECT_DIR$/css/small.css" />
       </list>
     </option>
   </component>
@@ -173,12 +175,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1479006223671</updated>
-      <workItem from="1479006227447" duration="4956000" />
+      <workItem from="1479006227447" duration="5092000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4956000" />
+    <option name="totallyTimeSpent" value="5092000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="0" width="1378" height="744" extended-state="0" />
@@ -266,25 +268,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/small.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/xsmall.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        <state relative-caret-position="23">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/xsmall2.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
+        <state relative-caret-position="487">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/small.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
           <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
           <folding />
         </state>
