@@ -45,7 +45,7 @@
     list-style: none;
     padding:0;
     overflow: hidden;
-    margin-right:10px;
+    margin-right:5px;
     float:right;
 }
 .nav ul li{
@@ -138,7 +138,7 @@
     display:none;
 }
 .neirong>a>div{
-    margin:5px;
+    margin:3px;
 }
 .aside{
     display: none;
