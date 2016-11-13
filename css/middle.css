@@ -1,6 +1,29 @@
 .kuang{
     width:80%;
 }
+.nav ul li a{
+    font-size: 1.5em;
+}
+.nav_content ul li h4{
+    font-size:1.4em;
+}
+
+#bottom .neirong p{
+    font-size:1.2em;
+}
+#bottom .neirong h4{
+    font-size:1.4em;
+}
+#bottom .neirong span{
+    font-size:1em;
+}
+#picture div div h3{
+    font-size:1.6em;
+}
+#picture div div p{
+    font-size:1.4em;
+}
+
 .header{
     overflow: hidden;
     width:100%;
@@ -27,7 +50,7 @@
 }
 .nav ul li{
     float: left;
-   margin-left:30px;
+   margin-left:25px;
 
 }
 .nav ul li img{

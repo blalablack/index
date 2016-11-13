@@ -23,7 +23,9 @@
 #picture div div p{
     font-size:1.4em;
 }
-
+#middle h3{
+    font-size: 1.5em;
+}
 .header{
     float: left;
     overflow: hidden;
